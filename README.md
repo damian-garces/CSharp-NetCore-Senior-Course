@@ -33,13 +33,13 @@ Go module by module:
 
 ## 📚 Main Modules
 
-1. Solid C# Fundamentals  
-2. Modern and Advanced C#  
-3. .NET Core and Modern .NET (6, 7, 8)  
-4. Clean Architecture and Best Practices  
-5. Applied Domain-Driven Design (DDD)  
-6. Modern Design Patterns  
-7. Testing and Productivity Tools
+- [Module 1 – Fundamentals](./Module1_Fundamentals/README.md)
+- [Module 2 – Modern C# Features](./Module2_ModernCSharp/README.md)
+- [Module 3 – .NET Core / Modern .NET](./Module3_ModernDotNet/README.md)
+- [Module 4 – Clean Architecture and Best Practices](./Module4_CleanArchitecture/README.md)
+- [Module 5 – Domain-Driven Design (DDD)](./Module5_DDD/README.md)
+- [Module 6 – Modern Design Patterns](./Module6_DesignPatterns/README.md)
+- [Module 7 – Testing and Productivity Tools](./Module7_TestingAndProductivity/README.md)
 
 ---
 
@@ -86,13 +86,13 @@ Avanza módulo por módulo.
 
 ## 📚 Módulos principales
 
-1. Fundamentos sólidos de C#  
-2. C# moderno y avanzado  
-3. .NET Core y .NET moderno (6, 7, 8)  
-4. Clean Architecture y buenas prácticas  
-5. DDD aplicado  
-6. Patrones de diseño modernos  
-7. Testing, herramientas y productividad
+- [Módulo 1 – Fundamentos](./Module1_Fundamentals/README.md)
+- [Módulo 2 – Características modernas de C#](./Module2_ModernCSharp/README.md)
+- [Módulo 3 – .NET Core / .NET moderno](./Module3_ModernDotNet/README.md)
+- [Módulo 4 – Clean Architecture y buenas prácticas](./Module4_CleanArchitecture/README.md)
+- [Módulo 5 – Domain-Driven Design (DDD)](./Module5_DDD/README.md)
+- [Módulo 6 – Patrones de diseño modernos](./Module6_DesignPatterns/README.md)
+- [Módulo 7 – Testing y herramientas de productividad](./Module7_TestingAndProductivity/README.md)
 
 ---
 
