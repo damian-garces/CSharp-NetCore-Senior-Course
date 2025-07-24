@@ -133,7 +133,7 @@ Console.WriteLine(a); // Imprime 5
 - Almacenan una referencia a los datos reales.
 - El objeto vive en el Heap, la referencia en el Stack.
 - Se comparte la referencia al asignarse o pasarse.
-**Examples**: `class`, `string`, `array`, `object`, `List<T>`, `Dictionary<TKey, TValue>`, `delegate`.
+- **Examples**: `class`, `string`, `array`, `object`, `List<T>`, `Dictionary<TKey, TValue>`, `delegate`.
 
 ```csharp
 class Persona { public string Nombre; }
